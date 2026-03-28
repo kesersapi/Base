@@ -1,1 +1,1 @@
-# Based # claude PİN1 rev.5
+# Based # claude PİN1 rev.6
