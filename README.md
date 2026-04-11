@@ -4,4 +4,4 @@ play one
 stop
 very go
 cloundeef no vlose
-v11  win win
+v11  win win win
