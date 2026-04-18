@@ -5,7 +5,7 @@
 sayi1 = float(input("Birinci sayıyı girin: "))
 sayi2 = float(input("İkinci sayıyı girin: "))
 
-# Toplama işlemini gerçekleştiriyoruz. step 1
+# Toplama işlemini gerçekleştiriyoruz. step 1 step 2
 toplam = sayi1 + sayi2
 
 # Sonucu ekrana yazdırıyoruz.1
