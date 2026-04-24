@@ -1,6 +1,6 @@
 # Basit Toplama Hesap Makinesi
 
-# Kullanıcıdan sayıları alıyoruz
+# Kullanıcıdan sayıları alıyoruz. Onaylıyorum
 # input() fonksiyonu veriyi metin (string) olarak aldığı için float() ile sayıya çeviriyoruz
 sayi1 = float(input("Birinci sayıyı girin: "))
 sayi2 = float(input("İkinci sayıyı girin: "))
